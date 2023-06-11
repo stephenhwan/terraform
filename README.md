@@ -15,12 +15,19 @@ https://viblo.asia/p/terraform-series-bai-1-infrastructure-as-code-va-terraform-
 https://registry.terraform.io/
 
 # lưu í role 
--tạo role 
+
+-tạo role
+
 +create role
+
 +add permission
+
 -add permission 
+
 +AmazonEC2FullAccess
+
 +AmazonSSMManagedInstanceCore
+
 +ec2-runinstance(custome)
 
 #json ec2-runinstance
